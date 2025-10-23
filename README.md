@@ -16,14 +16,18 @@
 
 ###
 
-<p align="left">📚 I'm currently learning the web development.<br>🎯 Goals: Create the website of my Esport Team (Team TXR)</p>
+<p align="left">📚 I'm currently learning the web development.<br>🎯 Goals: Create the website of my Esport Team (Team TXR)<br><br>I like sport, anime.</p>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/RKO">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=RKO&count=5" alt="Spotify recently played"  />
-  </a>
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDIzcjdrOGZmOGl1bzFzcXR0bzd2ZmQ3OWh5eHcxMzR6MzZzemVnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jlVObChD6Fb5C/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/0hoNLcggDG0AAAAM/bench-press.gif"  />
 </div>
 
 ###
