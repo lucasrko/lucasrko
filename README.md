@@ -24,13 +24,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/TaIzFEOO05MAAAAM/death-note-kira.gif"  />
-
 ###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/0hoNLcggDG0AAAAM/bench-press.gif"  />
-</div>
 
 ###
 
